@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test_react/static/css/main.dfa2ee11.css",
+    "main.js": "/test_react/static/js/main.b8382bb2.js",
+    "static/media/silver_skates.png": "/test_react/static/media/silver_skates.b16ae20241a53cbbb35d.png",
+    "static/media/interstellar.png": "/test_react/static/media/interstellar.069f8d6feecd0baf3c55.png",
+    "static/media/forrest.png": "/test_react/static/media/forrest.d176c5702bca9848a9c2.png",
+    "static/media/logo.png": "/test_react/static/media/logo.7b927001af2f2619092c.png",
+    "index.html": "/test_react/index.html",
+    "main.dfa2ee11.css.map": "/test_react/static/css/main.dfa2ee11.css.map",
+    "main.b8382bb2.js.map": "/test_react/static/js/main.b8382bb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa2ee11.css",
+    "static/js/main.b8382bb2.js"
+  ]
+}
